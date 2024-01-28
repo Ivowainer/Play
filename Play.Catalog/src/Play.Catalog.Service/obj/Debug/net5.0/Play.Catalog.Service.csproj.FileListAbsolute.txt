@@ -25,10 +25,5 @@ C:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\obj\D
 C:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\ref\Play.Catalog.Service.dll
 C:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.pdb
 C:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.genruntimeconfig.cache
-c:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.StaticWebAssets.xml
-c:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\staticwebassets\Play.Catalog.Service.StaticWebAssets.Pack.cache
-c:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\staticwebassets\msbuild.Play.Catalog.Service.Microsoft.AspNetCore.StaticWebAssets.props
-c:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\staticwebassets\msbuild.build.Play.Catalog.Service.props
-c:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Play.Catalog.Service.props
-c:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Play.Catalog.Service.props
-c:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\refint\Play.Catalog.Service.dll
+C:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\ref\Play.Catalog.Service.dll
+C:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\staticwebassets\Play.Catalog.Service.StaticWebAssets.xml
