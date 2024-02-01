@@ -27,3 +27,16 @@ C:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\obj\D
 C:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.genruntimeconfig.cache
 C:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\ref\Play.Catalog.Service.dll
 C:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\staticwebassets\Play.Catalog.Service.StaticWebAssets.xml
+C:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+C:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\DnsClient.dll
+C:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Snappier.dll
+C:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\ZstdSharp.dll
+C:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ivanc\Documents\Github\Play\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
