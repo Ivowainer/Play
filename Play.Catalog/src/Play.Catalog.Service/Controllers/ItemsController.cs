@@ -13,8 +13,8 @@ namespace Play.Catalog.Service.Controllers
     [Route("[controller]")]
     public class ItemsController : ControllerBase
     {
-        private readonly IItemsRepository itemsRepository;
-        public ItemsController(IItemsRepository itemRepository)
+        private readonly IRepository<Item> itemsRepository;
+        public ItemsController(IRepository<Item> itemRepository)
         {
             this.itemsRepository = itemRepository;
         }
