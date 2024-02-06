@@ -6,14 +6,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 
-using Play.Catalog.Service.Settings;
-
-using MongoDB.Bson;
-using MongoDB.Bson.Serialization;
-using MongoDB.Bson.Serialization.Serializers;
-using Play.Catalog.Service.Repositories;
-using MongoDB.Driver;
 using Play.Catalog.Service.Entities;
+using Play.Common.MongoDB;
+using Play.Common.Settings;
 
 namespace Play.Catalog.Service
 {
